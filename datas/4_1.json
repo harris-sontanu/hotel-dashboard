@@ -1,0 +1,86 @@
+[
+    {
+        "Bulan": "Januari",
+        "Total_Revenue_IDR": 1000000000,
+        "Total_Direct_Costs_IDR": 400000000,
+        "Gross_Operating_Profit_IDR": 600000000,
+        "GOP_Margin_%": 60
+    },
+    {
+        "Bulan": "Februari",
+        "Total_Revenue_IDR": 1050000000,
+        "Total_Direct_Costs_IDR": 420000000,
+        "Gross_Operating_Profit_IDR": 630000000,
+        "GOP_Margin_%": 60
+    },
+    {
+        "Bulan": "Maret",
+        "Total_Revenue_IDR": 1080000000,
+        "Total_Direct_Costs_IDR": 415000000,
+        "Gross_Operating_Profit_IDR": 665000000,
+        "GOP_Margin_%": 61.6
+    },
+    {
+        "Bulan": "April",
+        "Total_Revenue_IDR": 900000000,
+        "Total_Direct_Costs_IDR": 380000000,
+        "Gross_Operating_Profit_IDR": 520000000,
+        "GOP_Margin_%": 57.8
+    },
+    {
+        "Bulan": "Mei",
+        "Total_Revenue_IDR": 1120000000,
+        "Total_Direct_Costs_IDR": 450000000,
+        "Gross_Operating_Profit_IDR": 670000000,
+        "GOP_Margin_%": 59.8
+    },
+    {
+        "Bulan": "Juni",
+        "Total_Revenue_IDR": 1040000000,
+        "Total_Direct_Costs_IDR": 420000000,
+        "Gross_Operating_Profit_IDR": 620000000,
+        "GOP_Margin_%": 59.6
+    },
+    {
+        "Bulan": "Juli",
+        "Total_Revenue_IDR": 1150000000,
+        "Total_Direct_Costs_IDR": 470000000,
+        "Gross_Operating_Profit_IDR": 680000000,
+        "GOP_Margin_%": 59.1
+    },
+    {
+        "Bulan": "Agustus",
+        "Total_Revenue_IDR": 1200000000,
+        "Total_Direct_Costs_IDR": 480000000,
+        "Gross_Operating_Profit_IDR": 720000000,
+        "GOP_Margin_%": 60
+    },
+    {
+        "Bulan": "September",
+        "Total_Revenue_IDR": 1050000000,
+        "Total_Direct_Costs_IDR": 430000000,
+        "Gross_Operating_Profit_IDR": 620000000,
+        "GOP_Margin_%": 59
+    },
+    {
+        "Bulan": "Oktober",
+        "Total_Revenue_IDR": 1080000000,
+        "Total_Direct_Costs_IDR": 440000000,
+        "Gross_Operating_Profit_IDR": 640000000,
+        "GOP_Margin_%": 59.2
+    },
+    {
+        "Bulan": "November",
+        "Total_Revenue_IDR": 1020000000,
+        "Total_Direct_Costs_IDR": 420000000,
+        "Gross_Operating_Profit_IDR": 600000000,
+        "GOP_Margin_%": 58.8
+    },
+    {
+        "Bulan": "Desember",
+        "Total_Revenue_IDR": 1300000000,
+        "Total_Direct_Costs_IDR": 500000000,
+        "Gross_Operating_Profit_IDR": 800000000,
+        "GOP_Margin_%": 61.5
+    }
+]

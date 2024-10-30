@@ -1,0 +1,50 @@
+[
+    {
+        "Bulan": "Januari",
+        "Tamu_Bisnis": 300,
+        "Tamu_Leisure": 450,
+        "Tamu_Grup": 200,
+        "Tamu_Keluarga": 150,
+        "Total_Jumlah_Tamu": 1100
+    },
+    {
+        "Bulan": "Februari",
+        "Tamu_Bisnis": 320,
+        "Tamu_Leisure": 500,
+        "Tamu_Grup": 250,
+        "Tamu_Keluarga": 180,
+        "Total_Jumlah_Tamu": 1250
+    },
+    {
+        "Bulan": "Maret",
+        "Tamu_Bisnis": 340,
+        "Tamu_Leisure": 550,
+        "Tamu_Grup": 240,
+        "Tamu_Keluarga": 190,
+        "Total_Jumlah_Tamu": 1320
+    },
+    {
+        "Bulan": "April",
+        "Tamu_Bisnis": 280,
+        "Tamu_Leisure": 400,
+        "Tamu_Grup": 220,
+        "Tamu_Keluarga": 170,
+        "Total_Jumlah_Tamu": 1070
+    },
+    {
+        "Bulan": "Mei",
+        "Tamu_Bisnis": 360,
+        "Tamu_Leisure": 600,
+        "Tamu_Grup": 260,
+        "Tamu_Keluarga": 210,
+        "Total_Jumlah_Tamu": 1430
+    },
+    {
+        "Bulan": "Juni",
+        "Tamu_Bisnis": 370,
+        "Tamu_Leisure": 580,
+        "Tamu_Grup": 270,
+        "Tamu_Keluarga": 200,
+        "Total_Jumlah_Tamu": 1420
+    }
+]

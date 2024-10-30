@@ -1,0 +1,32 @@
+[
+    {
+        "Country": "Indonesia",
+        "Code": "IDN",
+        "Jumlah_Tamu": 550
+    },
+    {
+        "Country": "Australia",
+        "Code": "AUS",
+        "Jumlah_Tamu": 300
+    },
+    {
+        "Country": "Amerika Serikat",
+        "Code": "USA",
+        "Jumlah_Tamu": 200
+    },
+    {
+        "Country": "China",
+        "Code": "CHN",
+        "Jumlah_Tamu": 180
+    },
+    {
+        "Country": "Inggris",
+        "Code": "GBR",
+        "Jumlah_Tamu": 150
+    },
+    {
+        "Country": "Jerman",
+        "Code": "DEU",
+        "Jumlah_Tamu": 100
+    }
+]

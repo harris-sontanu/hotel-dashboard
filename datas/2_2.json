@@ -1,0 +1,18 @@
+[
+    {
+        "Tipe_Tamu": "Tamu Bisnis",
+        "Persentase": 25
+    },
+    {
+        "Tipe_Tamu": "Tamu Leisure",
+        "Persentase": 42
+    },
+    {
+        "Tipe_Tamu": "Tamu Grup",
+        "Persentase": 20
+    },
+    {
+        "Tipe_Tamu": "Tamu Keluarga",
+        "Persentase": 13
+    }
+]

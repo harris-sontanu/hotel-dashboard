@@ -1,0 +1,56 @@
+[
+    {
+        "Bulan": "Januari",
+        "Kamar_IDR": 500000000,
+        "F&B_IDR": 150000000,
+        "Spa_IDR": 80000000,
+        "Gym_IDR": 20000000,
+        "Layanan_Lainnya_IDR": 50000000,
+        "Total_Penjualan_IDR": 800000000
+    },
+    {
+        "Bulan": "Februari",
+        "Kamar_IDR": 550000000,
+        "F&B_IDR": 175000000,
+        "Spa_IDR": 85000000,
+        "Gym_IDR": 22000000,
+        "Layanan_Lainnya_IDR": 60000000,
+        "Total_Penjualan_IDR": 892000000
+    },
+    {
+        "Bulan": "Maret",
+        "Kamar_IDR": 600000000,
+        "F&B_IDR": 180000000,
+        "Spa_IDR": 90000000,
+        "Gym_IDR": 23000000,
+        "Layanan_Lainnya_IDR": 55000000,
+        "Total_Penjualan_IDR": 948000000
+    },
+    {
+        "Bulan": "April",
+        "Kamar_IDR": 450000000,
+        "F&B_IDR": 140000000,
+        "Spa_IDR": 70000000,
+        "Gym_IDR": 18000000,
+        "Layanan_Lainnya_IDR": 48000000,
+        "Total_Penjualan_IDR": 726000000
+    },
+    {
+        "Bulan": "Mei",
+        "Kamar_IDR": 620000000,
+        "F&B_IDR": 160000000,
+        "Spa_IDR": 92000000,
+        "Gym_IDR": 25000000,
+        "Layanan_Lainnya_IDR": 65000000,
+        "Total_Penjualan_IDR": 962000000
+    },
+    {
+        "Bulan": "Juni",
+        "Kamar_IDR": 580000000,
+        "F&B_IDR": 155000000,
+        "Spa_IDR": 88000000,
+        "Gym_IDR": 24000000,
+        "Layanan_Lainnya_IDR": 57000000,
+        "Total_Penjualan_IDR": 904000000
+    }
+]

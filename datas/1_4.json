@@ -1,0 +1,26 @@
+[
+    {
+        "Bulan": "Januari",
+        "Occupancy_Rate_Percent": 70
+    },
+    {
+        "Bulan": "Februari",
+        "Occupancy_Rate_Percent": 75
+    },
+    {
+        "Bulan": "Maret",
+        "Occupancy_Rate_Percent": 80
+    },
+    {
+        "Bulan": "April",
+        "Occupancy_Rate_Percent": 65
+    },
+    {
+        "Bulan": "Mei",
+        "Occupancy_Rate_Percent": 85
+    },
+    {
+        "Bulan": "Juni",
+        "Occupancy_Rate_Percent": 78
+    }
+]

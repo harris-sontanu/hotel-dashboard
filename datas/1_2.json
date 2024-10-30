@@ -1,0 +1,26 @@
+[
+    {
+        "Bulan": "Januari",
+        "ADR_IDR": 1200000
+    },
+    {
+        "Bulan": "Februari",
+        "ADR_IDR": 1250000
+    },
+    {
+        "Bulan": "Maret",
+        "ADR_IDR": 1300000
+    },
+    {
+        "Bulan": "April",
+        "ADR_IDR": 1150000
+    },
+    {
+        "Bulan": "Mei",
+        "ADR_IDR": 1350000
+    },
+    {
+        "Bulan": "Juni",
+        "ADR_IDR": 1320000
+    }
+]

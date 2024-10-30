@@ -1,0 +1,38 @@
+[
+    {
+        "Bulan": "Januari",
+        "Total_Revenue_IDR": 1000000000,
+        "Total_Direct_Costs_IDR": 400000000,
+        "Gross_Operating_Profit_IDR": 600000000
+    },
+    {
+        "Bulan": "Februari",
+        "Total_Revenue_IDR": 1055000000,
+        "Total_Direct_Costs_IDR": 420000000,
+        "Gross_Operating_Profit_IDR": 635000000
+    },
+    {
+        "Bulan": "Maret",
+        "Total_Revenue_IDR": 1087000000,
+        "Total_Direct_Costs_IDR": 410000000,
+        "Gross_Operating_Profit_IDR": 677000000
+    },
+    {
+        "Bulan": "April",
+        "Total_Revenue_IDR": 863000000,
+        "Total_Direct_Costs_IDR": 390000000,
+        "Gross_Operating_Profit_IDR": 473000000
+    },
+    {
+        "Bulan": "Mei",
+        "Total_Revenue_IDR": 1130000000,
+        "Total_Direct_Costs_IDR": 450000000,
+        "Gross_Operating_Profit_IDR": 680000000
+    },
+    {
+        "Bulan": "Juni",
+        "Total_Revenue_IDR": 1046000000,
+        "Total_Direct_Costs_IDR": 425000000,
+        "Gross_Operating_Profit_IDR": 621000000
+    }
+]

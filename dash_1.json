@@ -1,0 +1,251 @@
+{
+    "SalesSummary": {
+      "totalSales": 1200000,
+      "averageDailyRate": 125.50,
+      "revenuePerAvailableRoom": 80.25,
+      "occupancyRate": 85.0,
+      "segmentedRevenue": {
+        "leisure": 450000,
+        "business": 350000,
+        "group": 250000,
+        "other": 200000
+      },
+      "revenueByChannel": {
+        "direct": 500000,
+        "onlineTravelAgency": 300000,
+        "corporate": 200000,
+        "thirdParty": 100000
+      },
+      "monthlyData": [
+        {
+          "month": "January",
+          "totalSales": 95000,
+          "averageDailyRate": 120.0,
+          "revenuePerAvailableRoom": 70.0,
+          "occupancyRate": 78.0,
+          "segmentedRevenue": {
+            "leisure": 35000,
+            "business": 25000,
+            "group": 20000,
+            "other": 15000
+          },
+          "revenueByChannel": {
+            "direct": 40000,
+            "onlineTravelAgency": 25000,
+            "corporate": 20000,
+            "thirdParty": 10000
+          }
+        },
+        {
+          "month": "February",
+          "totalSales": 100000,
+          "averageDailyRate": 125.0,
+          "revenuePerAvailableRoom": 75.0,
+          "occupancyRate": 80.0,
+          "segmentedRevenue": {
+            "leisure": 37000,
+            "business": 27000,
+            "group": 22000,
+            "other": 14000
+          },
+          "revenueByChannel": {
+            "direct": 42000,
+            "onlineTravelAgency": 26000,
+            "corporate": 18000,
+            "thirdParty": 14000
+          }
+        },
+        {
+          "month": "March",
+          "totalSales": 105000,
+          "averageDailyRate": 130.0,
+          "revenuePerAvailableRoom": 80.0,
+          "occupancyRate": 83.0,
+          "segmentedRevenue": {
+            "leisure": 40000,
+            "business": 29000,
+            "group": 21000,
+            "other": 15000
+          },
+          "revenueByChannel": {
+            "direct": 45000,
+            "onlineTravelAgency": 27000,
+            "corporate": 20000,
+            "thirdParty": 13000
+          }
+        },
+        {
+          "month": "April",
+          "totalSales": 98000,
+          "averageDailyRate": 128.0,
+          "revenuePerAvailableRoom": 77.0,
+          "occupancyRate": 81.0,
+          "segmentedRevenue": {
+            "leisure": 38000,
+            "business": 26000,
+            "group": 22000,
+            "other": 12000
+          },
+          "revenueByChannel": {
+            "direct": 42000,
+            "onlineTravelAgency": 28000,
+            "corporate": 18000,
+            "thirdParty": 10000
+          }
+        },
+        {
+          "month": "May",
+          "totalSales": 102000,
+          "averageDailyRate": 132.0,
+          "revenuePerAvailableRoom": 79.0,
+          "occupancyRate": 84.0,
+          "segmentedRevenue": {
+            "leisure": 41000,
+            "business": 28000,
+            "group": 23000,
+            "other": 10000
+          },
+          "revenueByChannel": {
+            "direct": 44000,
+            "onlineTravelAgency": 26000,
+            "corporate": 21000,
+            "thirdParty": 11000
+          }
+        },
+        {
+          "month": "June",
+          "totalSales": 96000,
+          "averageDailyRate": 127.0,
+          "revenuePerAvailableRoom": 76.0,
+          "occupancyRate": 80.0,
+          "segmentedRevenue": {
+            "leisure": 39000,
+            "business": 25000,
+            "group": 21000,
+            "other": 11000
+          },
+          "revenueByChannel": {
+            "direct": 40000,
+            "onlineTravelAgency": 27000,
+            "corporate": 18000,
+            "thirdParty": 11000
+          }
+        },
+        {
+          "month": "July",
+          "totalSales": 115000,
+          "averageDailyRate": 135.0,
+          "revenuePerAvailableRoom": 85.0,
+          "occupancyRate": 88.0,
+          "segmentedRevenue": {
+            "leisure": 45000,
+            "business": 32000,
+            "group": 25000,
+            "other": 13000
+          },
+          "revenueByChannel": {
+            "direct": 50000,
+            "onlineTravelAgency": 30000,
+            "corporate": 20000,
+            "thirdParty": 15000
+          }
+        },
+        {
+          "month": "August",
+          "totalSales": 120000,
+          "averageDailyRate": 140.0,
+          "revenuePerAvailableRoom": 90.0,
+          "occupancyRate": 89.0,
+          "segmentedRevenue": {
+            "leisure": 48000,
+            "business": 31000,
+            "group": 24000,
+            "other": 17000
+          },
+          "revenueByChannel": {
+            "direct": 53000,
+            "onlineTravelAgency": 31000,
+            "corporate": 23000,
+            "thirdParty": 13000
+          }
+        },
+        {
+          "month": "September",
+          "totalSales": 95000,
+          "averageDailyRate": 125.0,
+          "revenuePerAvailableRoom": 75.0,
+          "occupancyRate": 82.0,
+          "segmentedRevenue": {
+            "leisure": 39000,
+            "business": 27000,
+            "group": 19000,
+            "other": 10000
+          },
+          "revenueByChannel": {
+            "direct": 45000,
+            "onlineTravelAgency": 25000,
+            "corporate": 16000,
+            "thirdParty": 9000
+          }
+        },
+        {
+          "month": "October",
+          "totalSales": 98000,
+          "averageDailyRate": 130.0,
+          "revenuePerAvailableRoom": 78.0,
+          "occupancyRate": 84.0,
+          "segmentedRevenue": {
+            "leisure": 40000,
+            "business": 28000,
+            "group": 20000,
+            "other": 10000
+          },
+          "revenueByChannel": {
+            "direct": 46000,
+            "onlineTravelAgency": 24000,
+            "corporate": 17000,
+            "thirdParty": 11000
+          }
+        },
+        {
+          "month": "November",
+          "totalSales": 97000,
+          "averageDailyRate": 128.0,
+          "revenuePerAvailableRoom": 77.0,
+          "occupancyRate": 83.0,
+          "segmentedRevenue": {
+            "leisure": 38000,
+            "business": 27000,
+            "group": 21000,
+            "other": 11000
+          },
+          "revenueByChannel": {
+            "direct": 45000,
+            "onlineTravelAgency": 25000,
+            "corporate": 17000,
+            "thirdParty": 10000
+          }
+        },
+        {
+          "month": "December",
+          "totalSales": 110000,
+          "averageDailyRate": 135.0,
+          "revenuePerAvailableRoom": 82.0,
+          "occupancyRate": 85.0,
+          "segmentedRevenue": {
+            "leisure": 44000,
+            "business": 30000,
+            "group": 22000,
+            "other": 14000
+          },
+          "revenueByChannel": {
+            "direct": 50000,
+            "onlineTravelAgency": 28000,
+            "corporate": 20000,
+            "thirdParty": 12000
+          }
+        }
+      ]
+    }
+  }
+  

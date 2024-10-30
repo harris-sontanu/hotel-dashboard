@@ -1,0 +1,56 @@
+[
+    {
+        "Bulan": "Januari",
+        "Gaji_dan_Upah_IDR": 250000000,
+        "Biaya_Operasional_IDR": 150000000,
+        "Marketing_IDR": 50000000,
+        "Maintenance_IDR": 30000000,
+        "Utilities_IDR": 20000000,
+        "Total_Expenses_IDR": 500000000
+    },
+    {
+        "Bulan": "Februari",
+        "Gaji_dan_Upah_IDR": 260000000,
+        "Biaya_Operasional_IDR": 160000000,
+        "Marketing_IDR": 55000000,
+        "Maintenance_IDR": 28000000,
+        "Utilities_IDR": 22000000,
+        "Total_Expenses_IDR": 525000000
+    },
+    {
+        "Bulan": "Maret",
+        "Gaji_dan_Upah_IDR": 270000000,
+        "Biaya_Operasional_IDR": 155000000,
+        "Marketing_IDR": 60000000,
+        "Maintenance_IDR": 32000000,
+        "Utilities_IDR": 24000000,
+        "Total_Expenses_IDR": 541000000
+    },
+    {
+        "Bulan": "April",
+        "Gaji_dan_Upah_IDR": 240000000,
+        "Biaya_Operasional_IDR": 140000000,
+        "Marketing_IDR": 48000000,
+        "Maintenance_IDR": 26000000,
+        "Utilities_IDR": 19000000,
+        "Total_Expenses_IDR": 473000000
+    },
+    {
+        "Bulan": "Mei",
+        "Gaji_dan_Upah_IDR": 275000000,
+        "Biaya_Operasional_IDR": 165000000,
+        "Marketing_IDR": 70000000,
+        "Maintenance_IDR": 35000000,
+        "Utilities_IDR": 23000000,
+        "Total_Expenses_IDR": 568000000
+    },
+    {
+        "Bulan": "Juni",
+        "Gaji_dan_Upah_IDR": 265000000,
+        "Biaya_Operasional_IDR": 160000000,
+        "Marketing_IDR": 65000000,
+        "Maintenance_IDR": 30000000,
+        "Utilities_IDR": 21000000,
+        "Total_Expenses_IDR": 541000000
+    }
+]

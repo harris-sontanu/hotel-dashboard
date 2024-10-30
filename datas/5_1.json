@@ -1,0 +1,74 @@
+[
+    {
+        "Bulan": "Januari",
+        "Jumlah_Kamar_Tersedia": 1500,
+        "Jumlah_Kamar_Terisi": 1200,
+        "Occupancy_Rate_%": 80
+    },
+    {
+        "Bulan": "Februari",
+        "Jumlah_Kamar_Tersedia": 1400,
+        "Jumlah_Kamar_Terisi": 1100,
+        "Occupancy_Rate_%": 78.6
+    },
+    {
+        "Bulan": "Maret",
+        "Jumlah_Kamar_Tersedia": 1500,
+        "Jumlah_Kamar_Terisi": 1300,
+        "Occupancy_Rate_%": 86.7
+    },
+    {
+        "Bulan": "April",
+        "Jumlah_Kamar_Tersedia": 1500,
+        "Jumlah_Kamar_Terisi": 1100,
+        "Occupancy_Rate_%": 73.3
+    },
+    {
+        "Bulan": "Mei",
+        "Jumlah_Kamar_Tersedia": 1500,
+        "Jumlah_Kamar_Terisi": 1250,
+        "Occupancy_Rate_%": 83.3
+    },
+    {
+        "Bulan": "Juni",
+        "Jumlah_Kamar_Tersedia": 1500,
+        "Jumlah_Kamar_Terisi": 1150,
+        "Occupancy_Rate_%": 76.7
+    },
+    {
+        "Bulan": "Juli",
+        "Jumlah_Kamar_Tersedia": 1500,
+        "Jumlah_Kamar_Terisi": 1400,
+        "Occupancy_Rate_%": 93.3
+    },
+    {
+        "Bulan": "Agustus",
+        "Jumlah_Kamar_Tersedia": 1500,
+        "Jumlah_Kamar_Terisi": 1450,
+        "Occupancy_Rate_%": 96.7
+    },
+    {
+        "Bulan": "September",
+        "Jumlah_Kamar_Tersedia": 1500,
+        "Jumlah_Kamar_Terisi": 1200,
+        "Occupancy_Rate_%": 80
+    },
+    {
+        "Bulan": "Oktober",
+        "Jumlah_Kamar_Tersedia": 1500,
+        "Jumlah_Kamar_Terisi": 1100,
+        "Occupancy_Rate_%": 73.3
+    },
+    {
+        "Bulan": "November",
+        "Jumlah_Kamar_Tersedia": 1500,
+        "Jumlah_Kamar_Terisi": 1000,
+        "Occupancy_Rate_%": 66.7
+    },
+    {
+        "Bulan": "Desember",
+        "Jumlah_Kamar_Tersedia": 1500,
+        "Jumlah_Kamar_Terisi": 1400,
+        "Occupancy_Rate_%": 93.3
+    }
+]

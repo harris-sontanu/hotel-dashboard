@@ -1,0 +1,32 @@
+[
+    {
+        "Kelompok_Usia": "18-24 tahun",
+        "Pria": 120,
+        "Wanita": 150,
+        "Total": 270
+    },
+    {
+        "Kelompok_Usia": "25-34 tahun",
+        "Pria": 200,
+        "Wanita": 220,
+        "Total": 420
+    },
+    {
+        "Kelompok_Usia": "35-44 tahun",
+        "Pria": 180,
+        "Wanita": 210,
+        "Total": 390
+    },
+    {
+        "Kelompok_Usia": "45-54 tahun",
+        "Pria": 100,
+        "Wanita": 90,
+        "Total": 190
+    },
+    {
+        "Kelompok_Usia": "55+ tahun",
+        "Pria": 80,
+        "Wanita": 60,
+        "Total": 140
+    }
+]

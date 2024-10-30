@@ -1,0 +1,26 @@
+[
+    {
+        "Bulan": "Januari",
+        "Tamu_Bisnis_IDR": 200000000,
+        "Tamu_Leisure_IDR": 300000000,
+        "Walk_in_IDR": 150000000,
+        "Website_IDR": 100000000,
+        "OTA_IDR": 250000000
+    },
+    {
+        "Bulan": "Februari",
+        "Tamu_Bisnis_IDR": 210000000,
+        "Tamu_Leisure_IDR": 340000000,
+        "Walk_in_IDR": 160000000,
+        "Website_IDR": 110000000,
+        "OTA_IDR": 270000000
+    },
+    {
+        "Bulan": "Maret",
+        "Tamu_Bisnis_IDR": 220000000,
+        "Tamu_Leisure_IDR": 360000000,
+        "Walk_in_IDR": 170000000,
+        "Website_IDR": 120000000,
+        "OTA_IDR": 280000000
+    }
+]
