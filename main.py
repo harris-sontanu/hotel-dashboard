@@ -9,11 +9,6 @@ st.set_page_config(
     page_icon="🧊",
     layout="wide",
     initial_sidebar_state="expanded",
-    menu_items={
-        'Get Help': 'https://www.extremelycoolapp.com/help',
-        'Report a bug': "https://www.extremelycoolapp.com/bug",
-        'About': "# This is a header. This is an *extremely* cool app!"
-    }
 )
 
 
@@ -35,7 +30,6 @@ tabs = st.tabs(
         "Penjualan dan Pendapatan",
         "Jumlah Tamu dan Demografi",
         "Profit dan Loss",
-        "Loyalitas dan Kepuasan Tamu"
     ]
 )
 
@@ -45,5 +39,3 @@ with tabs[1]:
     page_2_section()
 with tabs[2]:
     page_3_section()
-with tabs[3]:
-    page_4_section()
